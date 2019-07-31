@@ -1,0 +1,11 @@
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\obj\Debug\netcoreapp1.1\Messy.csprojAssemblyReference.cache
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\obj\Debug\netcoreapp1.1\Messy.csproj.CoreCompileInputs.cache
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\obj\Debug\netcoreapp1.1\Messy.AssemblyInfoInputs.cache
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\obj\Debug\netcoreapp1.1\Messy.AssemblyInfo.cs
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\bin\Debug\netcoreapp1.1\Messy.deps.json
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\bin\Debug\netcoreapp1.1\Messy.runtimeconfig.json
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\bin\Debug\netcoreapp1.1\Messy.runtimeconfig.dev.json
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\bin\Debug\netcoreapp1.1\Messy.dll
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\bin\Debug\netcoreapp1.1\Messy.pdb
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\obj\Debug\netcoreapp1.1\Messy.dll
+C:\Users\Loki\Desktop\Graduate Certificate of Information Technology\SIT771\Messy\obj\Debug\netcoreapp1.1\Messy.pdb
